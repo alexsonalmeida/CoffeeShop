@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "10e05ab7a08b124d3d1e13f8f3dd1923c9922e810b1957f5c3c583ff132bca86"
+    }
+  ],
+  "containerPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/Exemple.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Build/Products",
+      "pchPath" : "/Users/alexsonalmeida/Documents/CoffeeShop/DerivedData/Exemple/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
